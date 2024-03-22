@@ -1,4 +1,4 @@
 # dogs
-A  pamphlet website about dogs and pet photography
+A  pamphlet website about pet photography
 
 [edit here](https://diy-pwa.com/~/gh/JadeWeaver/dogs)
